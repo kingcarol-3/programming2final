@@ -211,7 +211,7 @@ gen = st.selectbox("Do you identify as female?",
 if gen == "Yes":
     gen = 1
 else: 
-    gen == 0
+    gen = 0
 
 #Age
 age = st.slider(label = "Please select your age (1 - 97 years old)",
