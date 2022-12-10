@@ -125,7 +125,7 @@ st.markdown("#### Created by Caroline King")
 
 
 st.markdown("### Please fill out the information below to predict if you are a LinkedIn User.")
-st.markdown("This information will remain private and will not be stored.")
+st.markdown("Note: All information will remain private and will not be stored.")
 
 #income
 inc = st.selectbox("Income",
